@@ -7,7 +7,7 @@ dependencies:
   flutter:
     sdk: flutter
   wemapgl_platform_interface:
-    path: ./wemapgl_platform_interface
+    path: lib/wemapgl_platform_interface
     
   fluttertoast: ^3.1.0
   url_launcher: ^5.4.2
